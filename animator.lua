@@ -1,3 +1,4 @@
+-- for Lua Sandbox
 local tweenService = game:GetService('TweenService');
 local animation = {};
 animation.__index = animation;
